@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Meta Test Page</title>
+</head>
+<body>
+  <h1>Welcome</h1>
+  <p>This is a placeholder index page.</p>
+  <a href="privacy.html">Go to Privacy Policy</a>
+</body>
+</html>
